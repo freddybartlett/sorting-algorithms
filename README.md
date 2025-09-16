@@ -1,2 +1,5 @@
 # sorting-algorithms
-a simple python console program that allows a user to choose a sorting algorithm (out of bogosort, bubble sort and merge sort) and subsequently input a list to get sorted
+
+code for the program is in sorting-algorithms.py in this repo
+
+link to code on google colabs: https://colab.research.google.com/drive/1_XDVvN54EQpl1hMf0FXNGg1RtuonMvCh?usp=sharing
